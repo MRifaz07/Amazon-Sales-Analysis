@@ -28,7 +28,4 @@ This project is an interactive sales analytics dashboard built to visualize Amaz
 
 - **Power BI** for dashboard development
 - **Microsoft Excel / CSV** for dataset handling
-- **Python** (optional, for data preprocessing)
-- **Mapbox / Bing Maps** for geographic data visualization
-
 ---
